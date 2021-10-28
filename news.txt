@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 salam chetori ?
+=======
+salam in taghir 
+>>>>>>> 9d53b0067db0db501dff9f0f0360305d0a14d7cb
